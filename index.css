@@ -301,14 +301,14 @@ margin-right: 100px;
     min-width: 300px;
 }
 
-/* .tagline2 {
+.tagline2 {
   font-size: 40px;
   color: #444;
 }
 .tagline1{
     color: #6306AA;
     font-size: 40px;
-} */
+}
 
 .stats{
   display:flex;
